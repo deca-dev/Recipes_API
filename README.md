@@ -1,4 +1,4 @@
-#Skeleton
+#Recipes API
 
 - Express
 - PostgreSQL
